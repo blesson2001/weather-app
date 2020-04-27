@@ -9,3 +9,4 @@ WORKDIR /var/node
 RUN npm install 
 EXPOSE 3000
 CMD ./bin/www
+#CMD
